@@ -1,0 +1,6 @@
+{
+  "name": "BrowserDiag & Extension Inspector",
+  "description": "Комплексная диагностика браузера, анализ конфликтов и ошибок расширений, нагрузочные тесты производительности и советы по оптимизации и безопасности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
